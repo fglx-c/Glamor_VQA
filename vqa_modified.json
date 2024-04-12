@@ -1,0 +1,4922 @@
+[
+  {
+    "qid": "436981000",
+    "image": "COCO_train2014_000000436981.jpg",
+    "question": "What are the letters on the bus?",
+    "src_dataset": "VQA",
+    "answers": [
+      "lak309g",
+      "lak",
+      "lak",
+      "3096",
+      "lak",
+      "lak",
+      "lak 3090",
+      "lak",
+      "lak",
+      "lak309g"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "440444003",
+    "image": "COCO_train2014_000000440444.jpg",
+    "question": "Whose house is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "don't know",
+      "steve's",
+      "man",
+      "unknown",
+      "man's",
+      "mom's",
+      "model home",
+      "tenants",
+      "homeowner's",
+      "family"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "441361005",
+    "image": "COCO_train2014_000000441361.jpg",
+    "question": "Who is on the bench?",
+    "src_dataset": "VQA",
+    "answers": [
+      "old women",
+      "woman and man",
+      "2 people",
+      "couple",
+      "at park",
+      "people",
+      "elderly couple",
+      "2 people",
+      "people",
+      "women"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "441633001",
+    "image": "COCO_train2014_000000441633.jpg",
+    "question": "What type of hat is this man wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "hat with hole",
+      "fedora",
+      "bucket hat",
+      "rasta hat",
+      "ponytail",
+      "fedora with dreads",
+      "visor",
+      "fedora",
+      "visor",
+      "top"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "442150001",
+    "image": "COCO_train2014_000000442150.jpg",
+    "question": "Where are the flowers?",
+    "src_dataset": "VQA",
+    "answers": [
+      "behind her",
+      "on edge of counter",
+      "left",
+      "left",
+      "behind person",
+      "vase",
+      "behind girl",
+      "in vase",
+      "on counter",
+      "floor"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      3,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "44291001",
+    "image": "COCO_train2014_000000044291.jpg",
+    "question": "How many umbrellas in the photo?",
+    "src_dataset": "VQA",
+    "answers": [
+      "10",
+      "12",
+      "14",
+      "14",
+      "12",
+      "11",
+      "13",
+      "14",
+      "15",
+      "12"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "443056002",
+    "image": "COCO_train2014_000000443056.jpg",
+    "question": "How many baskets are on display at the store?",
+    "src_dataset": "VQA",
+    "answers": [
+      "80",
+      "more than 5",
+      "10",
+      "11",
+      "12",
+      "4",
+      "23",
+      "11",
+      "several",
+      "100"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "44358000",
+    "image": "COCO_train2014_000000044358.jpg",
+    "question": "What is the man doing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "filling wine glass",
+      "pouring wine",
+      "pouring wine",
+      "repairing",
+      "filling wine glass",
+      "pouring wine",
+      "filling glass with wine",
+      "filling glass",
+      "getting drink",
+      "looking"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "443607008",
+    "image": "COCO_train2014_000000443607.jpg",
+    "question": "What is the man looking out of?",
+    "src_dataset": "VQA",
+    "answers": [
+      "carriage",
+      "wagon",
+      "buggy",
+      "glasses",
+      "buggy",
+      "eyes",
+      "he's looking out his eyes",
+      "wagon",
+      "horse carriage",
+      "tree"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "443650003",
+    "image": "COCO_train2014_000000443650.jpg",
+    "question": "What time of day is it?",
+    "src_dataset": "VQA",
+    "answers": [
+      "evening",
+      "sunset",
+      "afternoon",
+      "sunset",
+      "4 o'clock",
+      "about 6 o'clock",
+      "dawn",
+      "dusk",
+      "sunset",
+      "morning"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "443869008",
+    "image": "COCO_train2014_000000443869.jpg",
+    "question": "What is the main dish on the white plate?",
+    "src_dataset": "VQA",
+    "answers": [
+      "bread",
+      "pork",
+      "sushi",
+      "seafood",
+      "turkey",
+      "scallops",
+      "scallops",
+      "shrimp",
+      "pork",
+      "chicken"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "444036004",
+    "image": "COCO_train2014_000000444036.jpg",
+    "question": "What is in the dish?",
+    "src_dataset": "VQA",
+    "answers": [
+      "pasta",
+      "bread pudding",
+      "beef",
+      "cheese",
+      "bread beef cheese",
+      "dessert",
+      "cheese",
+      "desert",
+      "dessert",
+      "stew"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "444173000",
+    "image": "COCO_train2014_000000444173.jpg",
+    "question": "What type of filter is used in this picture?",
+    "src_dataset": "VQA",
+    "answers": [
+      "black and white",
+      "black and white",
+      "black and white",
+      "black and white",
+      "unknown",
+      "fisheye",
+      "black and white",
+      "black and white",
+      "old",
+      "lens"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      5,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "444339000",
+    "image": "COCO_train2014_000000444339.jpg",
+    "question": "What is in the girl's hand?",
+    "src_dataset": "VQA",
+    "answers": [
+      "container",
+      "jelly",
+      "spoon",
+      "spoon",
+      "spoon",
+      "ice cream",
+      "food",
+      "food",
+      "fork",
+      "can"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "444409037",
+    "image": "COCO_train2014_000000444409.jpg",
+    "question": "What is the food and drinks sitting next to?",
+    "src_dataset": "VQA",
+    "answers": [
+      "computer",
+      "keyboard",
+      "computer",
+      "computer",
+      "computer",
+      "monitor",
+      "keyboard, monitor, and feet",
+      "pizza, coffee",
+      "computer",
+      "computer monitor"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "444794002",
+    "image": "COCO_train2014_000000444794.jpg",
+    "question": "What color is the woman's shirt?",
+    "src_dataset": "VQA",
+    "answers": [
+      "beige",
+      "off white",
+      "tan",
+      "tan",
+      "beige",
+      "beige",
+      "tan",
+      "tan",
+      "white",
+      "tan"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      5,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "445446001",
+    "image": "COCO_train2014_000000445446.jpg",
+    "question": "What is laying next to the hydrant?",
+    "src_dataset": "VQA",
+    "answers": [
+      "cones",
+      "traffic cone",
+      "cone",
+      "cones",
+      "tube",
+      "traffic cones",
+      "traffic cone",
+      "traffic barrel",
+      "barrel",
+      "cones"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "445491012",
+    "image": "COCO_train2014_000000445491.jpg",
+    "question": "Where are the benches?",
+    "src_dataset": "VQA",
+    "answers": [
+      "floor",
+      "in front",
+      "yes",
+      "outside",
+      "by wall",
+      "by sign",
+      "against wall",
+      "sidewalk",
+      "front",
+      "by wall"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "445515002",
+    "image": "COCO_train2014_000000445515.jpg",
+    "question": "How much longer until midnight?",
+    "src_dataset": "VQA",
+    "answers": [
+      "6 hours",
+      "8 hours",
+      "9 hours",
+      "7 hours",
+      "6 hours",
+      "8 hours",
+      "few hours",
+      "8 and half hours",
+      "5 hours",
+      "8 hours"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "445745002",
+    "image": "COCO_train2014_000000445745.jpg",
+    "question": "Was the apple sliced or chopped?",
+    "src_dataset": "VQA",
+    "answers": [
+      "chopped",
+      "sliced",
+      "chopped",
+      "sliced",
+      "chopped",
+      "sliced",
+      "chopped",
+      "sliced",
+      "sliced",
+      "chopped"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "445829003",
+    "image": "COCO_train2014_000000445829.jpg",
+    "question": "Where is a musical instrument?",
+    "src_dataset": "VQA",
+    "answers": [
+      "by bookcase",
+      "next to couch",
+      "corner",
+      "by window",
+      "left corner",
+      "left",
+      "on left",
+      "back",
+      "near shelves",
+      "no"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "447108003",
+    "image": "COCO_train2014_000000447108.jpg",
+    "question": "Why is the horse black?",
+    "src_dataset": "VQA",
+    "answers": [
+      "born that way",
+      "gray",
+      "because purple is smurf",
+      "it's not",
+      "it is not",
+      "its white",
+      "genetics",
+      "not",
+      "white",
+      "white"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "447437000",
+    "image": "COCO_train2014_000000447437.jpg",
+    "question": "Why are people flying kites?",
+    "src_dataset": "VQA",
+    "answers": [
+      "for fun",
+      "kite day",
+      "national holiday",
+      "for fun",
+      "fun",
+      "windy",
+      "it's windy",
+      "celebrating",
+      "in celebration",
+      "they want too"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "447977003",
+    "image": "COCO_train2014_000000447977.jpg",
+    "question": "Why is the toilet outside?",
+    "src_dataset": "VQA",
+    "answers": [
+      "abandoned",
+      "flower display",
+      "used as planter",
+      "don't know",
+      "planter",
+      "decoration",
+      "decoration",
+      "flower pot",
+      "garbage",
+      "old"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "448115000",
+    "image": "COCO_train2014_000000448115.jpg",
+    "question": "What colors are the trains?",
+    "src_dataset": "VQA",
+    "answers": [
+      "black and yellow",
+      "red, yellow and black",
+      "red black yellow",
+      "black",
+      "black and red",
+      "black, yellow and red",
+      "yellow black red",
+      "red, black,",
+      "brown black and red",
+      "red and black"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "448648002",
+    "image": "COCO_train2014_000000448648.jpg",
+    "question": "Why are there no traffic signals?",
+    "src_dataset": "VQA",
+    "answers": [
+      "third world country",
+      "it is foreign country",
+      "none are installed",
+      "no need",
+      "foreign country",
+      "they were never put there",
+      "only few cars",
+      "no money",
+      "they don't have any in that country",
+      "don't need them"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "448671000",
+    "image": "COCO_train2014_000000448671.jpg",
+    "question": "Where is the table lamp?",
+    "src_dataset": "VQA",
+    "answers": [
+      "on table",
+      "behind man",
+      "behind man",
+      "background",
+      "end table",
+      "night stand",
+      "on table",
+      "on left",
+      "on table",
+      "top left"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "448702001",
+    "image": "COCO_train2014_000000448702.jpg",
+    "question": "What does the sign say?",
+    "src_dataset": "VQA",
+    "answers": [
+      "non potable water do not drink se prohibe beber el agua",
+      "non potable water do not drink",
+      "non potable water",
+      "non potable water do not drink se prohibe beber el agua",
+      "don't drink",
+      "non potable",
+      "non potable water do not drink",
+      "non potable water do not drink",
+      "non potable water do not drink",
+      "non potable water do not drink se prohibe beber el agua"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "448826002",
+    "image": "COCO_train2014_000000448826.jpg",
+    "question": "What is the man in yellow doing with his left hand?",
+    "src_dataset": "VQA",
+    "answers": [
+      "touching his face",
+      "holding chin",
+      "resting",
+      "eating",
+      "holding tennis racket",
+      "holding tennis racket",
+      "holding it under his chin",
+      "leaning his head on it",
+      "holding up his head",
+      "eating"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      1,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "448842012",
+    "image": "COCO_train2014_000000448842.jpg",
+    "question": "What does the sign on the left say?",
+    "src_dataset": "VQA",
+    "answers": [
+      "beauchamp tower",
+      "beauchamp tower",
+      "bloody tower",
+      "main st",
+      "scaffold site beauchamp tower",
+      "street name",
+      "scaffold",
+      "can't tell",
+      "name of street",
+      "scotland yard"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "449082009",
+    "image": "COCO_train2014_000000449082.jpg",
+    "question": "What 2 directions are shown on the green sign?",
+    "src_dataset": "VQA",
+    "answers": [
+      "tom price and roebourne",
+      "right and left",
+      "right",
+      "just 1, right",
+      "tom price roebourne",
+      "north and east",
+      "right, left",
+      "right",
+      "right",
+      "left, right"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "450006",
+    "image": "COCO_train2014_000000000450.jpg",
+    "question": "What toppings are on the pizza?",
+    "src_dataset": "VQA",
+    "answers": [
+      "sauce, cheese, basil",
+      "basil, mozzarella",
+      "spinach",
+      "spinach",
+      "basil",
+      "cheese and basil",
+      "cheese and parsley",
+      "cheese and spinach",
+      "cheese and leaves",
+      "cheese and basil"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "450111001",
+    "image": "COCO_train2014_000000450111.jpg",
+    "question": "What is the purpose of the green dish?",
+    "src_dataset": "VQA",
+    "answers": [
+      "to hold spoon while cooking",
+      "spoon rest",
+      "spoon",
+      "spoon",
+      "spoon rest",
+      "to hold spoons",
+      "spoon rest",
+      "utensil holder",
+      "spoon rest to keep stove clean",
+      "put dirty utensils"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "450219007",
+    "image": "COCO_train2014_000000450219.jpg",
+    "question": "Why wear head protection?",
+    "src_dataset": "VQA",
+    "answers": [
+      "safety",
+      "safety",
+      "for protection",
+      "don't get hurt",
+      "in case of fall",
+      "safety",
+      "to prevent traumatic head injuries",
+      "safety in case of fall",
+      "prevent injury",
+      "in case rider falls"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      2,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "450317003",
+    "image": "COCO_train2014_000000450317.jpg",
+    "question": "What is on the table?",
+    "src_dataset": "VQA",
+    "answers": [
+      "ice bucket and wine dispensers",
+      "buckets",
+      "cups",
+      "ice bucket",
+      "bucket",
+      "wine",
+      "cups",
+      "wine",
+      "ice bucket",
+      "wine tasting buckets"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "450434002",
+    "image": "COCO_train2014_000000450434.jpg",
+    "question": "What brand of doughnut shop is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "dunkin donut",
+      "dunkin donut",
+      "dunkin donuts",
+      "dunkin'",
+      "dunkin donut",
+      "dunkin donuts",
+      "dunkin donut",
+      "dunkin donuts",
+      "dunkin donuts",
+      "dunkin donuts"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "450528002",
+    "image": "COCO_train2014_000000450528.jpg",
+    "question": "What time of day is this event taking place?",
+    "src_dataset": "VQA",
+    "answers": [
+      "night time",
+      "evening",
+      "night",
+      "night",
+      "night time",
+      "evening",
+      "evening",
+      "night",
+      "night",
+      "night"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "451706010",
+    "image": "COCO_train2014_000000451706.jpg",
+    "question": "What picture is on the portrait?",
+    "src_dataset": "VQA",
+    "answers": [
+      "caricature",
+      "man",
+      "man",
+      "biker",
+      "face",
+      "family",
+      "man",
+      "many",
+      "man's face",
+      "portrait"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "451720001",
+    "image": "COCO_train2014_000000451720.jpg",
+    "question": "What is on the bed?",
+    "src_dataset": "VQA",
+    "answers": [
+      "pillows",
+      "pillows",
+      "pillows",
+      "pillows",
+      "blanket",
+      "pillows",
+      "pillows",
+      "blanket",
+      "sheets",
+      "pillows"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "452167004",
+    "image": "COCO_train2014_000000452167.jpg",
+    "question": "Is this person racing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "yes",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "maybe",
+      "motorcycle"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "452597003",
+    "image": "COCO_train2014_000000452597.jpg",
+    "question": "What kind of event is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "motorcycle",
+      "motorcycle gathering",
+      "bike rally",
+      "biker",
+      "motorcycle show",
+      "biker rally",
+      "motorcycle show",
+      "motorcycle rally",
+      "motorcycle event",
+      "motorcycle rally"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "452861002",
+    "image": "COCO_train2014_000000452861.jpg",
+    "question": "Why might the floor be wet?",
+    "src_dataset": "VQA",
+    "answers": [
+      "someone took shower",
+      "dripping",
+      "water",
+      "it was cleaned",
+      "bidet",
+      "shower",
+      "sink overflowed",
+      "toilet overflow",
+      "spill",
+      "pipe leak"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "453003006",
+    "image": "COCO_train2014_000000453003.jpg",
+    "question": "What style of tie is the man in the foreground wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "costume",
+      "plain",
+      "necktie",
+      "red",
+      "business",
+      "red",
+      "satin",
+      "solid",
+      "red",
+      "necktie"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "453313003",
+    "image": "COCO_train2014_000000453313.jpg",
+    "question": "What would the mess on the sidewalk be called?",
+    "src_dataset": "VQA",
+    "answers": [
+      "vandalism",
+      "meter",
+      "liter",
+      "broken parking meter",
+      "bird poop",
+      "ash",
+      "bird poop",
+      "debris",
+      "litter",
+      "trash"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "453734000",
+    "image": "COCO_train2014_000000453734.jpg",
+    "question": "Whose flag is that man wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "his",
+      "italy",
+      "germany",
+      "german",
+      "germany",
+      "germany",
+      "spain",
+      "brazil",
+      "germany",
+      "spain"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "453968006",
+    "image": "COCO_train2014_000000453968.jpg",
+    "question": "What kind of top is she wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "white",
+      "button up",
+      "white",
+      "button up top",
+      "blouse",
+      "shirt",
+      "buttoned shirt",
+      "sweater",
+      "white",
+      "long sleeve"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "454177001",
+    "image": "COCO_train2014_000000454177.jpg",
+    "question": "Why is the bike connected to the pole?",
+    "src_dataset": "VQA",
+    "answers": [
+      "to secure bike",
+      "security",
+      "chained",
+      "prevent theft",
+      "keep protected",
+      "don't know",
+      "where it doesn't get stolen",
+      "safety",
+      "yes",
+      "prevent theft"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "454898002",
+    "image": "COCO_train2014_000000454898.jpg",
+    "question": "Where are the flowers?",
+    "src_dataset": "VQA",
+    "answers": [
+      "behind fence",
+      "in park",
+      "front",
+      "in garden",
+      "behind fence",
+      "in enclosure",
+      "behind fence",
+      "in garden",
+      "garden",
+      "in bushes"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "45543012",
+    "image": "COCO_train2014_000000045543.jpg",
+    "question": "What color is the train?",
+    "src_dataset": "VQA",
+    "answers": [
+      "orange",
+      "yellow orange black",
+      "orange, black, yellow",
+      "orange yellow",
+      "orange and yellow",
+      "pink",
+      "orange, yellow and black",
+      "yellow, black and orange",
+      "orange black yellow",
+      "orange and yellow"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "455614008",
+    "image": "COCO_train2014_000000455614.jpg",
+    "question": "Where is the bike?",
+    "src_dataset": "VQA",
+    "answers": [
+      "park",
+      "sidewalk",
+      "road",
+      "sidewalk",
+      "walkway",
+      "driveway",
+      "street",
+      "on road",
+      "sidewalk",
+      "road"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "455875000",
+    "image": "COCO_train2014_000000455875.jpg",
+    "question": "How many umbrellas are there?",
+    "src_dataset": "VQA",
+    "answers": [
+      "9",
+      "8",
+      "9",
+      "8",
+      "8",
+      "7",
+      "8",
+      "9",
+      "9",
+      "10"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "456900000",
+    "image": "COCO_train2014_000000456900.jpg",
+    "question": "What objects are hanging from the ceiling?",
+    "src_dataset": "VQA",
+    "answers": [
+      "bird cage",
+      "lights",
+      "decor",
+      "bird cage",
+      "lights",
+      "birdcage",
+      "bird cage",
+      "cages",
+      "cage",
+      "lizards"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "456949010",
+    "image": "COCO_train2014_000000456949.jpg",
+    "question": "What type of vehicle is in the image?",
+    "src_dataset": "VQA",
+    "answers": [
+      "old car and truck",
+      "car",
+      "oldie",
+      "car",
+      "car and truck",
+      "truck, car",
+      "station wagon",
+      "car and truck",
+      "car truck",
+      "car"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "457725006",
+    "image": "COCO_train2014_000000457725.jpg",
+    "question": "What type of pants is the motorcycle rider wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "long pants",
+      "tight",
+      "police uniform pants",
+      "leather",
+      "uniform",
+      "leather",
+      "police uniform",
+      "riding",
+      "officer uniform",
+      "leather"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "45792001",
+    "image": "COCO_train2014_000000045792.jpg",
+    "question": "What style of image is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "segmented",
+      "different settings",
+      "collage",
+      "chinese",
+      "selfie",
+      "collage",
+      "collage",
+      "collage",
+      "collage",
+      "multiple frames"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      2,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "457976001",
+    "image": "COCO_train2014_000000457976.jpg",
+    "question": "What color are the cows?",
+    "src_dataset": "VQA",
+    "answers": [
+      "brown and white",
+      "white",
+      "black & white",
+      "black and white",
+      "brown & white",
+      "brown and white",
+      "black and white",
+      "brown and white",
+      "brown and white",
+      "black, white"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "458139001",
+    "image": "COCO_train2014_000000458139.jpg",
+    "question": "What could you make with the ingredients above?",
+    "src_dataset": "VQA",
+    "answers": [
+      "fruit salad with bread",
+      "souffle",
+      "apple pie",
+      "sandwich",
+      "italian cooking",
+      "breakfast",
+      "sandwich",
+      "cake",
+      "egg sandwich",
+      "omelet"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      1,
+      1,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "458232007",
+    "image": "COCO_train2014_000000458232.jpg",
+    "question": "What shape is painted on the floor?",
+    "src_dataset": "VQA",
+    "answers": [
+      "square",
+      "baseball field",
+      "base",
+      "diamond",
+      "pentagon",
+      "diamond",
+      "baseball diamond",
+      "house",
+      "baseball field",
+      "baseball field"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "459765001",
+    "image": "COCO_train2014_000000459765.jpg",
+    "question": "What is green in the picture?",
+    "src_dataset": "VQA",
+    "answers": [
+      "trees",
+      "grass",
+      "trees",
+      "trees",
+      "trees",
+      "trees",
+      "trees",
+      "tree",
+      "tree",
+      "tree"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "459848003",
+    "image": "COCO_train2014_000000459848.jpg",
+    "question": "Where is the train?",
+    "src_dataset": "VQA",
+    "answers": [
+      "station",
+      "terminal",
+      "on tracks",
+      "train depot",
+      "on track",
+      "on track",
+      "train station",
+      "station",
+      "at station",
+      "track"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "460459001",
+    "image": "COCO_train2014_000000460459.jpg",
+    "question": "What are they taking pictures of?",
+    "src_dataset": "VQA",
+    "answers": [
+      "skateboarding",
+      "skateboarding",
+      "skateboarder",
+      "skateboarders",
+      "poses",
+      "skateboarder",
+      "skating",
+      "park",
+      "skateboarders",
+      "skater"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "460987005",
+    "image": "COCO_train2014_000000460987.jpg",
+    "question": "What pattern is the floor?",
+    "src_dataset": "VQA",
+    "answers": [
+      "circle",
+      "octagonal",
+      "tile",
+      "tile",
+      "circular",
+      "tiles",
+      "circles",
+      "checkered",
+      "flowers",
+      "hectagons"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "462186001",
+    "image": "COCO_train2014_000000462186.jpg",
+    "question": "Is this person attempting a stunt or are they falling?",
+    "src_dataset": "VQA",
+    "answers": [
+      "stunt",
+      "falling",
+      "stunt",
+      "stunt",
+      "stunt attempt",
+      "stunt",
+      "falling",
+      "stunt",
+      "stunt",
+      "stunt"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "462186007",
+    "image": "COCO_train2014_000000462186.jpg",
+    "question": "What is the person wearing on their feet?",
+    "src_dataset": "VQA",
+    "answers": [
+      "skis",
+      "skis",
+      "boots",
+      "skis",
+      "ski boots",
+      "shoe boots",
+      "skis",
+      "skis",
+      "skis",
+      "skis"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "462395058",
+    "image": "COCO_train2014_000000462395.jpg",
+    "question": "What is on the right of the kitchen?",
+    "src_dataset": "VQA",
+    "answers": [
+      "window",
+      "garbage",
+      "green bottle",
+      "cabinets",
+      "can't see it",
+      "green bottle",
+      "bottle",
+      "bottle",
+      "stove",
+      "oven"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "462811002",
+    "image": "COCO_train2014_000000462811.jpg",
+    "question": "What type of cake is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "red velvet",
+      "red velvet",
+      "red velvet",
+      "chocolate",
+      "red velvet cake",
+      "spice cake",
+      "chocolate",
+      "red velvet",
+      "carrot",
+      "red velvet"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "463482005",
+    "image": "COCO_train2014_000000463482.jpg",
+    "question": "Is he in the water?",
+    "src_dataset": "VQA",
+    "answers": [
+      "yes",
+      "yes",
+      "no",
+      "no",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "no",
+      "yes"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "463581005",
+    "image": "COCO_train2014_000000463581.jpg",
+    "question": "What number is shown on the tail and on the side?",
+    "src_dataset": "VQA",
+    "answers": [
+      "n204re",
+      "20",
+      "n204re",
+      "n204re sr20",
+      "204",
+      "20",
+      "n204re, sr20",
+      "20",
+      "202",
+      "2092"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      2,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "463591009",
+    "image": "COCO_train2014_000000463591.jpg",
+    "question": "Where are the man's hands?",
+    "src_dataset": "VQA",
+    "answers": [
+      "in front of him",
+      "beer",
+      "champagne and cup",
+      "cup",
+      "wine bottle",
+      "in front of his chest",
+      "wine",
+      "front",
+      "bottle, cup",
+      "bottle"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "463665003",
+    "image": "COCO_train2014_000000463665.jpg",
+    "question": "What kind of bird are these?",
+    "src_dataset": "VQA",
+    "answers": [
+      "storks",
+      "herring",
+      "crane",
+      "seagulls",
+      "heron",
+      "cranes",
+      "not sure",
+      "cranes",
+      "cranes",
+      "stork"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "463844003",
+    "image": "COCO_train2014_000000463844.jpg",
+    "question": "What is above the cooktop?",
+    "src_dataset": "VQA",
+    "answers": [
+      "light",
+      "plate",
+      "light",
+      "hood",
+      "cabinets",
+      "hood",
+      "vent fan",
+      "fan",
+      "cabinets",
+      "vent"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "463966002",
+    "image": "COCO_train2014_000000463966.jpg",
+    "question": "What is in the picture?",
+    "src_dataset": "VQA",
+    "answers": [
+      "man on skateboard",
+      "man skateboarding",
+      "young male skateboarding",
+      "boy on fence",
+      "skateboarder",
+      "boy",
+      "skateboarder",
+      "boy skateboarding",
+      "skateboarder",
+      "boy on skateboard by skate ramp"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "465196006",
+    "image": "COCO_train2014_000000465196.jpg",
+    "question": "What is the woman's hand?",
+    "src_dataset": "VQA",
+    "answers": [
+      "poles",
+      "ski poles",
+      "gloves",
+      "in her pocket",
+      "in jacket",
+      "ski pole",
+      "in her pocket",
+      "pocket",
+      "ski poles",
+      "poles"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "46524008",
+    "image": "COCO_train2014_000000046524.jpg",
+    "question": "What is the name of the style on the person's shirt?",
+    "src_dataset": "VQA",
+    "answers": [
+      "flowered",
+      "tank top",
+      "colorful",
+      "sleeveless beaded",
+      "abstract",
+      "floral",
+      "abstract",
+      "tank top",
+      "floral",
+      "i don't know"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "465285001",
+    "image": "COCO_train2014_000000465285.jpg",
+    "question": "What vegetable is next to the flowers?",
+    "src_dataset": "VQA",
+    "answers": [
+      "peppers",
+      "tomato",
+      "onions",
+      "chile",
+      "banana",
+      "artichokes",
+      "nothing",
+      "red peppers",
+      "squash",
+      "bananas"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "465351005",
+    "image": "COCO_train2014_000000465351.jpg",
+    "question": "What sport is the boy playing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "kite",
+      "katie",
+      "kite",
+      "kite flying",
+      "flying kite",
+      "kite flying",
+      "kiting",
+      "kite flying",
+      "flying kite",
+      "kites"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "465677000",
+    "image": "COCO_train2014_000000465677.jpg",
+    "question": "What are the people viewing in the picture?",
+    "src_dataset": "VQA",
+    "answers": [
+      "palm trees",
+      "building",
+      "skateboarder",
+      "skateboarding",
+      "skateboarders",
+      "beach",
+      "trees",
+      "skateboard",
+      "skateboard",
+      "skateboarder"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "465855006",
+    "image": "COCO_train2014_000000465855.jpg",
+    "question": "What is causing the white distortion in the photo?",
+    "src_dataset": "VQA",
+    "answers": [
+      "windsurfer",
+      "chop",
+      "water",
+      "water",
+      "splashing",
+      "surfboard",
+      "surf",
+      "splash of water",
+      "wave",
+      "splash"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "465940004",
+    "image": "COCO_train2014_000000465940.jpg",
+    "question": "How many spokes are on the rear bike wheel?",
+    "src_dataset": "VQA",
+    "answers": [
+      "36",
+      "many",
+      "26",
+      "40",
+      "35",
+      "20",
+      "14",
+      "20",
+      "2",
+      "20"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      3,
+      3,
+      1,
+      0
+    ]
+  },
+  {
+    "qid": "466402001",
+    "image": "COCO_train2014_000000466402.jpg",
+    "question": "What are these sheep doing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "standing",
+      "looking",
+      "standing",
+      "looking",
+      "roaming",
+      "climbing hill",
+      "looking down hill",
+      "staring",
+      "standing",
+      "nothing"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "466694013",
+    "image": "COCO_train2014_000000466694.jpg",
+    "question": "What colors are in the shades?",
+    "src_dataset": "VQA",
+    "answers": [
+      "red green white",
+      "multiple",
+      "green, red, white",
+      "green red white",
+      "white, red, green",
+      "green, red, white",
+      "green, white, red",
+      "multi",
+      "red green white",
+      "red navy white"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "466845001",
+    "image": "COCO_train2014_000000466845.jpg",
+    "question": "Are the animals or people caged in?",
+    "src_dataset": "VQA",
+    "answers": [
+      "people caged in",
+      "animals",
+      "people",
+      "animals",
+      "people",
+      "animals",
+      "people",
+      "animal",
+      "animals",
+      "yes"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "467265002",
+    "image": "COCO_train2014_000000467265.jpg",
+    "question": "What type of scene is pictured?",
+    "src_dataset": "VQA",
+    "answers": [
+      "school",
+      "kite flying",
+      "kids playing",
+      "kite flying",
+      "kids playing in school yard",
+      "flying kites",
+      "kids flying kites",
+      "school children flying kites",
+      "school grounds",
+      "school"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "467311006",
+    "image": "COCO_train2014_000000467311.jpg",
+    "question": "Where is the bus?",
+    "src_dataset": "VQA",
+    "answers": [
+      "on street",
+      "on street",
+      "on street",
+      "in front",
+      "on road",
+      "in front of hummer",
+      "street",
+      "right",
+      "in front of yellow vehicle",
+      "street"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "467431003",
+    "image": "COCO_train2014_000000467431.jpg",
+    "question": "Where is the man at?",
+    "src_dataset": "VQA",
+    "answers": [
+      "floor",
+      "living room",
+      "on floor",
+      "living room",
+      "floor",
+      "living room",
+      "living room",
+      "ground",
+      "living room",
+      "living room"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "467799005",
+    "image": "COCO_train2014_000000467799.jpg",
+    "question": "What is the person with the number 10 on his back doing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "batting",
+      "swinging bat",
+      "batting",
+      "batting",
+      "batting",
+      "hitting",
+      "batting",
+      "batting",
+      "bunting ball",
+      "hitting"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "467939001",
+    "image": "COCO_train2014_000000467939.jpg",
+    "question": "What type of sandwich is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "one with tomatoes",
+      "sub",
+      "submarine",
+      "ham",
+      "club",
+      "submarine",
+      "american hero",
+      "grinder",
+      "italian",
+      "caprese"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "468097000",
+    "image": "COCO_train2014_000000468097.jpg",
+    "question": "What is red on the side of the bus?",
+    "src_dataset": "VQA",
+    "answers": [
+      "painted pattern",
+      "wheel",
+      "paint",
+      "window framing, name sign, bottom",
+      "paint",
+      "name",
+      "peerless stages inc",
+      "stripe",
+      "bottom",
+      "signage"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "46816002",
+    "image": "COCO_train2014_000000046816.jpg",
+    "question": "Where is the bench?",
+    "src_dataset": "VQA",
+    "answers": [
+      "outside",
+      "by river",
+      "near cycle",
+      "in front of water",
+      "lakefront",
+      "next to lake",
+      "in front of camera",
+      "lake",
+      "near water",
+      "outside"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "468422000",
+    "image": "COCO_train2014_000000468422.jpg",
+    "question": "What is the photographer trying to show you how to do?",
+    "src_dataset": "VQA",
+    "answers": [
+      "heat mug",
+      "warm coffee",
+      "microwave",
+      "microwave",
+      "microwave cup",
+      "cook",
+      "microwave liquid",
+      "heat up coffee mug",
+      "clean microwave",
+      "use microwave"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "468818000",
+    "image": "COCO_train2014_000000468818.jpg",
+    "question": "Is the man on the right holding the frisbee or actively passing it to the man on the left?",
+    "src_dataset": "VQA",
+    "answers": [
+      "he is passing it",
+      "passing",
+      "passing it",
+      "actively passing",
+      "holding",
+      "no",
+      "passing frisbee",
+      "holding",
+      "passing",
+      "passing"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "469147003",
+    "image": "COCO_train2014_000000469147.jpg",
+    "question": "Where are the fruits kept?",
+    "src_dataset": "VQA",
+    "answers": [
+      "crates",
+      "boxes",
+      "baskets",
+      "shelf",
+      "in stall",
+      "crates",
+      "crates",
+      "in bins",
+      "outside",
+      "boxes"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "469545003",
+    "image": "COCO_train2014_000000469545.jpg",
+    "question": "Why is the batter's left leg bent?",
+    "src_dataset": "VQA",
+    "answers": [
+      "batting",
+      "stability",
+      "swinging bat",
+      "yes",
+      "hitting ball",
+      "just swung bat",
+      "swinging",
+      "yes",
+      "he hit home run",
+      "swinging bat"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "469625013",
+    "image": "COCO_train2014_000000469625.jpg",
+    "question": "What is the person doing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "surfing",
+      "surfing",
+      "surfing",
+      "surfing",
+      "walking",
+      "surfing",
+      "walking into ocean",
+      "surfing",
+      "standing",
+      "surfing"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "469648003",
+    "image": "COCO_train2014_000000469648.jpg",
+    "question": "What is the bear holding?",
+    "src_dataset": "VQA",
+    "answers": [
+      "cup",
+      "flannel",
+      "cup of candy canes",
+      "mug of candy canes",
+      "candy cane mug",
+      "cup",
+      "candy canes",
+      "mug",
+      "cup",
+      "mug full of candy canes"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      2,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "469658013",
+    "image": "COCO_train2014_000000469658.jpg",
+    "question": "What kind of service truck is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "heaver bros",
+      "mercedes benz",
+      "tow",
+      "heaver bros",
+      "semi",
+      "tow",
+      "tow truck",
+      "tow",
+      "tow truck",
+      "tow truck"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "470014002",
+    "image": "COCO_train2014_000000470014.jpg",
+    "question": "What kind of dressing is she wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "sari",
+      "unsure",
+      "sari",
+      "sara",
+      "smock",
+      "sari",
+      "red",
+      "burch",
+      "indian",
+      "wrap"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "470267001",
+    "image": "COCO_train2014_000000470267.jpg",
+    "question": "Where is the TV?",
+    "src_dataset": "VQA",
+    "answers": [
+      "left",
+      "beside door",
+      "on left side of picture",
+      "in front of girls",
+      "room",
+      "left",
+      "left side",
+      "tv stand",
+      "on left side of room",
+      "on left"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "470472003",
+    "image": "COCO_train2014_000000470472.jpg",
+    "question": "What is on the man's face?",
+    "src_dataset": "VQA",
+    "answers": [
+      "glasses",
+      "beard",
+      "glasses",
+      "sunglasses",
+      "sunglasses",
+      "beard",
+      "sunglasses",
+      "glasses",
+      "glasses",
+      "sunglasses"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "47066008",
+    "image": "COCO_train2014_000000047066.jpg",
+    "question": "What kind of fruit is shown?",
+    "src_dataset": "VQA",
+    "answers": [
+      "squash",
+      "okra",
+      "no fruit",
+      "squash, pumpkins",
+      "orange",
+      "different types of squash",
+      "pear",
+      "potatoes",
+      "gourds",
+      "tangerine"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "470937012",
+    "image": "COCO_train2014_000000470937.jpg",
+    "question": "What is the lady walking in front of?",
+    "src_dataset": "VQA",
+    "answers": [
+      "sign",
+      "house",
+      "pub",
+      "building",
+      "sign",
+      "railroad sign",
+      "traffic sign",
+      "pub",
+      "shop",
+      "hoop"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "470951000",
+    "image": "COCO_train2014_000000470951.jpg",
+    "question": "What color scheme was this photo taken in?",
+    "src_dataset": "VQA",
+    "answers": [
+      "black and orange",
+      "summer",
+      "color",
+      "colored",
+      "blue",
+      "close up",
+      "color",
+      "normal",
+      "not sure",
+      "blue and yellow"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "471020001",
+    "image": "COCO_train2014_000000471020.jpg",
+    "question": "What color is the stop light?",
+    "src_dataset": "VQA",
+    "answers": [
+      "can't see color",
+      "red",
+      "yellow",
+      "yellow",
+      "yellow",
+      "red",
+      "yellow",
+      "yellow",
+      "yellow",
+      "yellow"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "4719011",
+    "image": "COCO_train2014_000000004719.jpg",
+    "question": "What kind of plate is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "glass plate",
+      "porcelain",
+      "glass",
+      "white with blue flowers",
+      "ceramic",
+      "round one",
+      "dinner plate",
+      "dinner",
+      "ceramic",
+      "serving"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "472757005",
+    "image": "COCO_train2014_000000472757.jpg",
+    "question": "What is the race of the player?",
+    "src_dataset": "VQA",
+    "answers": [
+      "caucasian",
+      "hispanic",
+      "italian",
+      "black",
+      "arabian",
+      "he can be many races",
+      "spanish",
+      "italian",
+      "italian",
+      "spanish"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "473326001",
+    "image": "COCO_train2014_000000473326.jpg",
+    "question": "What is the person below wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "motorcycle riding leathers and helmet",
+      "motorcycle clothing ( above not below)",
+      "leather jacket",
+      "leather",
+      "leather",
+      "helmet",
+      "leather",
+      "leather jacket and pants",
+      "no",
+      "black leather"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "475336016",
+    "image": "COCO_train2014_000000475336.jpg",
+    "question": "Where is a butter knife?",
+    "src_dataset": "VQA",
+    "answers": [
+      "near top of picture",
+      "above plate",
+      "left side of plate",
+      "on right",
+      "next to plate",
+      "behind plate",
+      "placemat",
+      "right",
+      "next to plate",
+      "placemat"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      1,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "475336020",
+    "image": "COCO_train2014_000000475336.jpg",
+    "question": "What type of cuisine is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "vegetarian",
+      "steamed vegetables",
+      "italian",
+      "veggies",
+      "chicken",
+      "american",
+      "dinner",
+      "chicken and asparagus",
+      "healthy",
+      "indian"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "475441004",
+    "image": "COCO_train2014_000000475441.jpg",
+    "question": "What brand is this motorcycle?",
+    "src_dataset": "VQA",
+    "answers": [
+      "ducati",
+      "victory",
+      "victory",
+      "harley davidson",
+      "bmw",
+      "honda",
+      "harley davidson",
+      "honda",
+      "harley",
+      "honda"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "475578005",
+    "image": "COCO_train2014_000000475578.jpg",
+    "question": "What toppings does the pizza have?",
+    "src_dataset": "VQA",
+    "answers": [
+      "meat and mushrooms",
+      "cheese lemon mushroom",
+      "cheese, broccoli, lemon, chicken",
+      "chicken, spinach, mushroom",
+      "chicken",
+      "peppers, onion, mushrooms",
+      "mushrooms, chicken and onion",
+      "chicken, mushrooms and broccoli",
+      "meat",
+      "mushrooms and chicken"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      2,
+      2,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "476607001",
+    "image": "COCO_train2014_000000476607.jpg",
+    "question": "What type of toy does he have with him?",
+    "src_dataset": "VQA",
+    "answers": [
+      "wii control",
+      "remote",
+      "wiimote",
+      "controller",
+      "controller",
+      "wii",
+      "wii remote",
+      "wii console",
+      "video game controller",
+      "game control"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "476634002",
+    "image": "COCO_train2014_000000476634.jpg",
+    "question": "How many veggies are piled up?",
+    "src_dataset": "VQA",
+    "answers": [
+      "several cups",
+      "bunch",
+      "2",
+      "many",
+      "1 kind",
+      "lot",
+      "559",
+      "whole bunch",
+      "200",
+      "1"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      4,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "476889000",
+    "image": "COCO_train2014_000000476889.jpg",
+    "question": "What vegetable are on the plate?",
+    "src_dataset": "VQA",
+    "answers": [
+      "cucumber tomato",
+      "zucchini, tomatoes, and carrots",
+      "zucchini and red peppers",
+      "zucchini",
+      "tomatoes and zucchini",
+      "zucchini",
+      "peppers and zucchinis",
+      "zucchini and peppers",
+      "peppers, zucchini",
+      "cucumbers and tomatoes"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "477031003",
+    "image": "COCO_train2014_000000477031.jpg",
+    "question": "What color is the teddy bear?",
+    "src_dataset": "VQA",
+    "answers": [
+      "black and beige",
+      "tan",
+      "brown",
+      "beige",
+      "brown",
+      "beige and black",
+      "it's dog",
+      "black and beige",
+      "tan and plaid",
+      "gray"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "47729001",
+    "image": "COCO_train2014_000000047729.jpg",
+    "question": "What colors are the men wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "blue white pink orange",
+      "pink, orange and blue",
+      "blue, orange, white, and pink",
+      "blue, orange, pink",
+      "blue, orange, pink",
+      "pink, orange/white and blue",
+      "blue orange pink",
+      "yellow blue and pink",
+      "blue, orange and pink",
+      "blue pink orange"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "477415004",
+    "image": "COCO_train2014_000000477415.jpg",
+    "question": "Which person is probably speaking?",
+    "src_dataset": "VQA",
+    "answers": [
+      "student",
+      "one to right",
+      "man in black jacket with tie",
+      "man with tie",
+      "right one",
+      "man in tie",
+      "one on right",
+      "right",
+      "right",
+      "man with hand gestures"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "477807002",
+    "image": "COCO_train2014_000000477807.jpg",
+    "question": "How many people are in the crowd?",
+    "src_dataset": "VQA",
+    "answers": [
+      "20",
+      "20",
+      "30",
+      "several",
+      "17",
+      "100",
+      "more than 20",
+      "hundreds",
+      "25",
+      "25"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "478298003",
+    "image": "COCO_train2014_000000478298.jpg",
+    "question": "What is on the floor tiles?",
+    "src_dataset": "VQA",
+    "answers": [
+      "shoes",
+      "baby seat, rubber band",
+      "toys",
+      "carpet",
+      "car seat",
+      "rug",
+      "rug",
+      "carpet",
+      "white",
+      "baby's car seat"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      2,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "478738008",
+    "image": "COCO_train2014_000000478738.jpg",
+    "question": "Where is this place?",
+    "src_dataset": "VQA",
+    "answers": [
+      "furniture store",
+      "corner",
+      "usa",
+      "treasure chest collectibles",
+      "town",
+      "furniture store",
+      "intersection",
+      "furniture store",
+      "outside",
+      "town"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "47954000",
+    "image": "COCO_train2014_000000047954.jpg",
+    "question": "What type of hairstyle is he sporting?",
+    "src_dataset": "VQA",
+    "answers": [
+      "shaggy",
+      "long",
+      "short",
+      "mullet",
+      "feather",
+      "longer",
+      "neck length",
+      "side part",
+      "shaggy",
+      "long"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "479697012",
+    "image": "COCO_train2014_000000479697.jpg",
+    "question": "What is this woman holding?",
+    "src_dataset": "VQA",
+    "answers": [
+      "her knee",
+      "her knees",
+      "person",
+      "handlebars",
+      "bars",
+      "motorcycle",
+      "riding motorcycle",
+      "handlebars",
+      "knee",
+      "driver"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "480107001",
+    "image": "COCO_train2014_000000480107.jpg",
+    "question": "What is on the yellow sign?",
+    "src_dataset": "VQA",
+    "answers": [
+      "children",
+      "pedestrians",
+      "pedestrian images",
+      "pedestrians walking",
+      "people",
+      "pedestrian crossing",
+      "pedestrians",
+      "school children crossing",
+      "pedestrian",
+      "crosswalk"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "480403000",
+    "image": "COCO_train2014_000000480403.jpg",
+    "question": "What type of hats are they wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "black",
+      "black cone",
+      "ceremonial",
+      "beanies",
+      "cone",
+      "black",
+      "caps",
+      "strange",
+      "monk",
+      "normal"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "480489002",
+    "image": "COCO_train2014_000000480489.jpg",
+    "question": "What point of view is the picture taken from?",
+    "src_dataset": "VQA",
+    "answers": [
+      "kite",
+      "above",
+      "in sky",
+      "below",
+      "aerial",
+      "above",
+      "kite",
+      "overhead",
+      "air",
+      "plane"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "480770003",
+    "image": "COCO_train2014_000000480770.jpg",
+    "question": "Why are the birds so close to the people?",
+    "src_dataset": "VQA",
+    "answers": [
+      "to get food",
+      "looking for food",
+      "food",
+      "food",
+      "for food",
+      "eating",
+      "want food",
+      "food",
+      "foraging",
+      "they want food"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "480779000",
+    "image": "COCO_train2014_000000480779.jpg",
+    "question": "What is the food item with the green colors?",
+    "src_dataset": "VQA",
+    "answers": [
+      "lettuce",
+      "vegetables",
+      "salad",
+      "slaw",
+      "lettuce",
+      "pasta",
+      "garnish",
+      "broccoli",
+      "salad",
+      "herb"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      1,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "480812000",
+    "image": "COCO_train2014_000000480812.jpg",
+    "question": "What is the man holding?",
+    "src_dataset": "VQA",
+    "answers": [
+      "sandwich",
+      "sandwich",
+      "sandwich",
+      "sandwich",
+      "sandwich",
+      "food",
+      "hot dog",
+      "sandwich",
+      "hot dog",
+      "sandwich"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "481441024",
+    "image": "COCO_train2014_000000481441.jpg",
+    "question": "Where is the cat laying?",
+    "src_dataset": "VQA",
+    "answers": [
+      "blanket",
+      "blanket",
+      "blanket",
+      "chair",
+      "on blanket",
+      "yes",
+      "blanket",
+      "sofa",
+      "blanket",
+      "couch"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "481820003",
+    "image": "COCO_train2014_000000481820.jpg",
+    "question": "What color are the flowers in the vase?",
+    "src_dataset": "VQA",
+    "answers": [
+      "yellow red",
+      "red and yellow",
+      "red/pink",
+      "yellow and red",
+      "yellow and red",
+      "yellow, red",
+      "yellow",
+      "red,yellow",
+      "red, yellow, orange",
+      "yellow, red, orange"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      2,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "482393008",
+    "image": "COCO_train2014_000000482393.jpg",
+    "question": "How many types of tile is shown?",
+    "src_dataset": "VQA",
+    "answers": [
+      "2",
+      "2",
+      "2",
+      "1",
+      "1",
+      "2",
+      "1",
+      "2",
+      "1",
+      "1"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "482441006",
+    "image": "COCO_train2014_000000482441.jpg",
+    "question": "Who is looking back at the camera?",
+    "src_dataset": "VQA",
+    "answers": [
+      "skier",
+      "woman skier",
+      "no one",
+      "man",
+      "skier",
+      "skier",
+      "woman",
+      "skier",
+      "skier",
+      "woman"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "482625004",
+    "image": "COCO_train2014_000000482625.jpg",
+    "question": "Why is there a stop sign?",
+    "src_dataset": "VQA",
+    "answers": [
+      "to stop",
+      "to instruct",
+      "warning",
+      "traffic signal",
+      "to stop cars",
+      "because you must stop here before moving on",
+      "intersection",
+      "stop",
+      "road intersection",
+      "to stop at"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "482753011",
+    "image": "COCO_train2014_000000482753.jpg",
+    "question": "What is the animal in the picture doing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "standing",
+      "standing",
+      "standing",
+      "standing",
+      "walking",
+      "walking",
+      "giraffe",
+      "observing",
+      "standing",
+      "walking"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "483083002",
+    "image": "COCO_train2014_000000483083.jpg",
+    "question": "Where are the wine bottles?",
+    "src_dataset": "VQA",
+    "answers": [
+      "rack",
+      "rack",
+      "on rack",
+      "in stand",
+      "on wall",
+      "on rack",
+      "on wine rack",
+      "rack",
+      "in rack",
+      "bottle holder"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      2,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "484123003",
+    "image": "COCO_train2014_000000484123.jpg",
+    "question": "What type of light bulb is in these two lamps?",
+    "src_dataset": "VQA",
+    "answers": [
+      "yellow",
+      "energy saving",
+      "don't know",
+      "cfc",
+      "60 watt",
+      "regular",
+      "night",
+      "led",
+      "low level",
+      "small"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "484273002",
+    "image": "COCO_train2014_000000484273.jpg",
+    "question": "How many people are in the picture?",
+    "src_dataset": "VQA",
+    "answers": [
+      "2",
+      "3",
+      "3",
+      "2",
+      "3",
+      "2",
+      "3",
+      "2",
+      "3",
+      "3"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      1,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "484281011",
+    "image": "COCO_train2014_000000484281.jpg",
+    "question": "Why does the woman have an object in her hand?",
+    "src_dataset": "VQA",
+    "answers": [
+      "cooking",
+      "spreading sauce",
+      "pizza",
+      "to stir",
+      "cooking",
+      "making pizza",
+      "to spread sauce",
+      "cooking",
+      "knife",
+      "yes"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "484353002",
+    "image": "COCO_train2014_000000484353.jpg",
+    "question": "What is the red and white vegetable?",
+    "src_dataset": "VQA",
+    "answers": [
+      "radish",
+      "radishes",
+      "radish",
+      "onion",
+      "radish",
+      "radish",
+      "radish",
+      "potatoes",
+      "tomato & cucumber",
+      "radish"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "484418001",
+    "image": "COCO_train2014_000000484418.jpg",
+    "question": "Where is smoke coming from?",
+    "src_dataset": "VQA",
+    "answers": [
+      "plane",
+      "plane",
+      "under plane",
+      "plane",
+      "plane",
+      "small plane",
+      "airplane",
+      "airplane",
+      "plane",
+      "plane"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "484668002",
+    "image": "COCO_train2014_000000484668.jpg",
+    "question": "What is on the back of the bikes?",
+    "src_dataset": "VQA",
+    "answers": [
+      "bags of trash",
+      "packages",
+      "various goods",
+      "merchandise",
+      "food",
+      "fabric",
+      "packages",
+      "hay",
+      "packages",
+      "bags"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      1,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "485303002",
+    "image": "COCO_train2014_000000485303.jpg",
+    "question": "What type of skateboard trick is this?",
+    "src_dataset": "VQA",
+    "answers": [
+      "jolly",
+      "slide",
+      "jump",
+      "grind",
+      "rail riding",
+      "rail sliding",
+      "jump",
+      "grind",
+      "rail",
+      "grind"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      2,
+      5,
+      1,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "485891002",
+    "image": "COCO_train2014_000000485891.jpg",
+    "question": "What are these dolls?",
+    "src_dataset": "VQA",
+    "answers": [
+      "yes",
+      "punks",
+      "bratz",
+      "barbie",
+      "barbie",
+      "weird",
+      "horror high",
+      "bratz",
+      "bratz",
+      "bratz dolls"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "486315000",
+    "image": "COCO_train2014_000000486315.jpg",
+    "question": "What is embossed into the chair?",
+    "src_dataset": "VQA",
+    "answers": [
+      "pillow seat",
+      "patterned cushion",
+      "cushion",
+      "cushion",
+      "cushion",
+      "design",
+      "not possible",
+      "pillow",
+      "can't tell",
+      "teddy bear"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "487018003",
+    "image": "COCO_train2014_000000487018.jpg",
+    "question": "What kind of sauce is on this food?",
+    "src_dataset": "VQA",
+    "answers": [
+      "marinara",
+      "tomato sauce",
+      "pizza sauce",
+      "tomato",
+      "tomato",
+      "tomato",
+      "marinara sauce",
+      "cheese",
+      "pesto",
+      "pizza"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      2,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "487568001",
+    "image": "COCO_train2014_000000487568.jpg",
+    "question": "Which signal light looks damaged?",
+    "src_dataset": "VQA",
+    "answers": [
+      "one on right",
+      "stop light",
+      "leaning",
+      "one in front",
+      "front",
+      "center one",
+      "middle of picture",
+      "one leaning",
+      "red",
+      "traffic light"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "487602004",
+    "image": "COCO_train2014_000000487602.jpg",
+    "question": "What are the children doing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "kites",
+      "posing",
+      "kite flying",
+      "showing kites",
+      "playing",
+      "holding kites",
+      "making kites",
+      "holding kites",
+      "flying kites",
+      "posing"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "488390012",
+    "image": "COCO_train2014_000000488390.jpg",
+    "question": "What brand of laptop is sitting on the desk?",
+    "src_dataset": "VQA",
+    "answers": [
+      "compaq",
+      "hp",
+      "compaq",
+      "compaq",
+      "compaq",
+      "dell",
+      "hp",
+      "compaq",
+      "dell",
+      "apple"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      5,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "489369000",
+    "image": "COCO_train2014_000000489369.jpg",
+    "question": "What animal is intermingling with the elephant?",
+    "src_dataset": "VQA",
+    "answers": [
+      "gazelle",
+      "gazelle",
+      "antelope",
+      "antelope",
+      "deer",
+      "eland",
+      "gazelle",
+      "deer",
+      "gazelles",
+      "antelopes"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      1,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "490247012",
+    "image": "COCO_train2014_000000490247.jpg",
+    "question": "Where is the cake in the picture?",
+    "src_dataset": "VQA",
+    "answers": [
+      "right side",
+      "on platter",
+      "on glass",
+      "on plate",
+      "on table",
+      "platter",
+      "on tray",
+      "right",
+      "under frosting",
+      "right side"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "490496002",
+    "image": "COCO_train2014_000000490496.jpg",
+    "question": "What is different about the Santa?",
+    "src_dataset": "VQA",
+    "answers": [
+      "black face",
+      "he is black",
+      "he's dog",
+      "he's black",
+      "black",
+      "he is not white male",
+      "black, lost weight",
+      "he's black",
+      "black",
+      "toy"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "490610000",
+    "image": "COCO_train2014_000000490610.jpg",
+    "question": "Why does the child have a big hat on?",
+    "src_dataset": "VQA",
+    "answers": [
+      "sun protection",
+      "sunny",
+      "sunny",
+      "to protect from sun",
+      "hat",
+      "sunny",
+      "sun protection",
+      "sun protection",
+      "block sun",
+      "protection from sun"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "490870000",
+    "image": "COCO_train2014_000000490870.jpg",
+    "question": "What color shirt is the guy to the left wearing?",
+    "src_dataset": "VQA",
+    "answers": [
+      "red",
+      "orange",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "490979000",
+    "image": "COCO_train2014_000000490979.jpg",
+    "question": "What color is the main cycle in this picture?",
+    "src_dataset": "VQA",
+    "answers": [
+      "olive green",
+      "black & green",
+      "green",
+      "green",
+      "black and green",
+      "black",
+      "gold",
+      "black and green",
+      "green",
+      "dark green"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "491302004",
+    "image": "COCO_train2014_000000491302.jpg",
+    "question": "What color shoes is the gentlemen wearing in the far left?",
+    "src_dataset": "VQA",
+    "answers": [
+      "beige",
+      "white",
+      "white",
+      "white",
+      "white",
+      "black",
+      "gray",
+      "white",
+      "white",
+      "white"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "491737002",
+    "image": "COCO_train2014_000000491737.jpg",
+    "question": "What is he pouring?",
+    "src_dataset": "VQA",
+    "answers": [
+      "sauce",
+      "sauce",
+      "butter",
+      "mustard",
+      "juice",
+      "cake mix",
+      "mustard",
+      "honey mustard",
+      "orange juice",
+      "sauce"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      4,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "491932001",
+    "image": "COCO_train2014_000000491932.jpg",
+    "question": "What is the name of the website on the suitcase?",
+    "src_dataset": "VQA",
+    "answers": [
+      "freakyfrugalitecom",
+      "freaky frugalite",
+      "freakyfrugalitecom",
+      "freaky frugalite",
+      "freakyfrugalitecom",
+      "freakyfrugalitecom",
+      "freakyfrugalitecom",
+      "freaky frugalite",
+      "freakyfrugalitecom",
+      "freakyfrugalitecom"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "491959000",
+    "image": "COCO_train2014_000000491959.jpg",
+    "question": "What does the street sign say?",
+    "src_dataset": "VQA",
+    "answers": [
+      "no on sidewalk",
+      "no skateboards,bikes on sidewalk",
+      "no skateboards or bikes on sidewalk",
+      "no skateboarding or biking on sidewalk",
+      "lakeside",
+      "lakeside av",
+      "no on sidewalk",
+      "lakeside",
+      "lakeside",
+      "no"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "492030007",
+    "image": "COCO_train2014_000000492030.jpg",
+    "question": "What is the person doing in the water?",
+    "src_dataset": "VQA",
+    "answers": [
+      "walking",
+      "standing",
+      "walking",
+      "wading",
+      "wading",
+      "walking",
+      "standing",
+      "standing",
+      "standing",
+      "standing"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "492114006",
+    "image": "COCO_train2014_000000492114.jpg",
+    "question": "Why is the man on the right leaning over like that?",
+    "src_dataset": "VQA",
+    "answers": [
+      "woman on right",
+      "batting",
+      "no man on right",
+      "catcher",
+      "to hit ball",
+      "batting stance",
+      "to pitch",
+      "to hit",
+      "batting",
+      "to pose"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      5,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "492801001",
+    "image": "COCO_train2014_000000492801.jpg",
+    "question": "What color is the person's outfit?",
+    "src_dataset": "VQA",
+    "answers": [
+      "red and black",
+      "red , orange, yellow and black",
+      "orange/yellow/black",
+      "red",
+      "red and black",
+      "red, orange, black",
+      "red, orange, & black",
+      "red-orange",
+      "red, yellow and black",
+      "red and black"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "493603004",
+    "image": "COCO_train2014_000000493603.jpg",
+    "question": "Where is the trash bin?",
+    "src_dataset": "VQA",
+    "answers": [
+      "center",
+      "middle of room",
+      "middle",
+      "wood piece",
+      "left",
+      "street",
+      "on ground",
+      "in front of person",
+      "ground",
+      "bin"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "qid": "493659018",
+    "image": "COCO_train2014_000000493659.jpg",
+    "question": "What color is the man's hat?",
+    "src_dataset": "VQA",
+    "answers": [
+      "red",
+      "red",
+      "brown",
+      "black",
+      "red and brown",
+      "red, white, brown",
+      "brown and red",
+      "black, white and red",
+      "brown plaid",
+      "red"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "494394003",
+    "image": "COCO_train2014_000000494394.jpg",
+    "question": "What is the man sitting under?",
+    "src_dataset": "VQA",
+    "answers": [
+      "awning",
+      "sky",
+      "stairs",
+      "wall",
+      "bridge",
+      "sky",
+      "statue",
+      "not possible",
+      "statue",
+      "steps"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      3,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "qid": "494504016",
+    "image": "COCO_train2014_000000494504.jpg",
+    "question": "How would you describe the ceiling light?",
+    "src_dataset": "VQA",
+    "answers": [
+      "weird",
+      "spiky",
+      "flower",
+      "dim",
+      "gaudy",
+      "ball",
+      "flower",
+      "bulky",
+      "flower",
+      "pinecone"
+    ],
+    "ans_diff_labels": [
+      0,
+      0,
+      0,
+      0,
+      5,
+      2,
+      4,
+      2,
+      0,
+      0
+    ]
+  }
+]

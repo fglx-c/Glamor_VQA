@@ -1,0 +1,201 @@
+[
+    {
+        "qid": "103843026",
+        "image": "COCO_train2014_000000103843.jpg",
+        "question": [
+            [
+                "What category of food is this?"
+            ],
+            [
+                "What kind of cuisine does this dish belong to?"
+            ]
+        ],
+        "src_dataset": "VQA",
+        "answers": [
+            [
+                "mexican"
+            ],
+            [
+                "burrito",
+                "wrap"
+            ],
+            [
+                "american"
+            ]
+        ],
+        "ans_diff_labels": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            2,
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "qid": "105933032",
+        "image": "COCO_train2014_000000105933.jpg",
+        "question": [
+            [
+                "What are the people sitting on?"
+            ],
+            [
+                "What is the material of the structure the people are sitting on?"
+            ]
+        ],
+        "src_dataset": "VQA",
+        "answers": [
+            [
+                "boardwalk",
+                "beach wall",
+                "wall",
+                "sea wall",
+                "concrete wall",
+                "divider wall",
+                "stone"
+            ],
+            [
+                "pier"
+            ],
+            []
+        ],
+        "ans_diff_labels": [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            3,
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "qid": "114101007",
+        "image": "COCO_train2014_000000114101.jpg",
+        "question": [
+            [
+                "What kind of truck is this?"
+            ],
+            [
+                "What is the brand of this truck?"
+            ],
+            [
+                "What type of service is this truck used for?"
+            ]
+        ],
+        "src_dataset": "VQA",
+        "answers": [
+            [
+                "sovereign"
+            ],
+            [
+                "volvo"
+            ],
+            [
+                "tow",
+                "tow truck"
+            ]
+        ],
+        "ans_diff_labels": [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            1,
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "qid": "121920004",
+        "image": "COCO_train2014_000000121920.jpg",
+        "question": [
+            [
+                "Why the plane is on the runway?"
+            ],
+            [
+                "What is the plane doing on the runway?"
+            ]
+        ],
+        "src_dataset": "VQA",
+        "answers": [
+            [
+                "landing",
+                "it has landed"
+            ],
+            [
+                "maintenance"
+            ],
+            [
+                "waiting"
+            ],
+            [
+                "parked"
+            ],
+            [
+                "taking off"
+            ],
+            [
+                "refueling"
+            ],
+            [
+                "preparing"
+            ]
+        ],
+        "ans_diff_labels": [
+            0,
+            2,
+            0,
+            0,
+            3,
+            1,
+            3,
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "qid": "122335000",
+        "image": "COCO_train2014_000000122335.jpg",
+        "question": [
+            [
+                "What sport is this person doing?"
+            ],
+            [
+                "Is this person playing a sport indoors or outdoors?"
+            ]
+        ],
+        "src_dataset": "VQA",
+        "answers": [
+            [
+                "bowling"
+            ],
+            [
+                "wii bowling"
+            ]
+        ],
+        "ans_diff_labels": [
+            0,
+            0,
+            0,
+            1,
+            2,
+            0,
+            3,
+            5,
+            0,
+            0
+        ]
+    }
+]
